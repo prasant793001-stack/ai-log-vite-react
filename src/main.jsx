@@ -26,7 +26,7 @@ function App() {
         {/* Hero Section */}
         <section className="min-h-screen flex items-center justify-center relative overflow-hidden">
           <div className="absolute inset-0 bg-gradient-to-b from-orange-500/10 via-transparent to-black"></div>
-          <div className="absolute inset-0 bg-[url('https://grainy-gradients.vercel.app/noise.svg')] opacity-20"></div>
+          <div className="absolute inset-0 bg-[url('/assets/noise.svg')] opacity-20"></div>
           <div className="relative z-10 text-center px-6">
             <h1 className="text-6xl md:text-8xl font-black tracking-tighter mb-6 bg-gradient-to-r from-orange-500 to-red-500 bg-clip-text text-transparent">
               Design Your Vision

@@ -41,3 +41,5 @@ uploads/
 # U-Ai one-click launchers (local only)
 OPEN-APP.cmd
 FIX-GITHUB-PAGES.cmd
+
+# deployment marker
